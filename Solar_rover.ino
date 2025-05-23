@@ -14,7 +14,7 @@
 // Set password to "" for open networks.
 char auth[] = BLYNK_AUTH_TOKEN;
 char ssid[] = "Realme 9 Pro 5G";
-char pass[] = "manish32";
+char pass[] = "harish32";
 
 
 #define IN1 26 //18
